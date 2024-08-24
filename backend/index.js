@@ -10,7 +10,7 @@ const port = 3001;
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'Rak@1411',
+  password: 'password',
   database: 'TASKDB' // Ensure this matches your database name
 });
 
